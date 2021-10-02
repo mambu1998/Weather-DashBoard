@@ -1,4 +1,6 @@
-## Benji Francis Challenge 6
+## Benji Francis
+
+## Challenge 6 Server-Side APIs Challenge: Weather Dashboard
 
 ## Info
 
@@ -8,7 +10,11 @@ All the data for that specific day would be fetched from the API we are calling
 
 ## Git Link
 
+https://github.com/mambu1998/Weather-DashBoard
+
 ## Live Link
+
+https://mambu1998.github.io/Weather-DashBoard/
 
 The following image demonstrates the application functionality:
 
